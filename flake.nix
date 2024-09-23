@@ -18,6 +18,7 @@
             pkg-config
             gnumake
             cmake
+            cmake-lint
             clang-tools
             libclang
             conan
