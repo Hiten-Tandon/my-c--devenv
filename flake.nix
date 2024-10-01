@@ -19,6 +19,8 @@
             gnumake
             cmake
             cmake-lint
+            neocmakelsp
+            cmake-language-server
             clang-tools
             libclang
             conan
